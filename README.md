@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&text='HI'&height=200&fontSize=90&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type='타입 입력'&color='원하는 색상 코드')
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color='BDCBDC8')
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellen24k&count_private=true&langs_count=10&layout=compact&theme=dark)](https://github.com/ellen24k/ellen24k)
 
