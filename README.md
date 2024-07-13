@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
+[Ellen's Develog](https://ellen24k.github.io/develog/)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellen24k&count_private=true&langs_count=10&layout=compact&theme=dark)](https://github.com/ellen24k/ellen24k)
 
 [![ellen24k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen24k&count_private=true&include_all_commits&show_icons=true&theme=dracula)](https://github.com/ellen24k/ellen24k)
