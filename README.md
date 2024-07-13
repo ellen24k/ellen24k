@@ -1,5 +1,5 @@
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=d3e3F5&height=200&text=Hi%20there&fontAlign=70&fontAlignY=25&desc=TaeYoung's%20GitHub&descAlign=70.&descAlignY=440&fontColor=ffffff)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=d3e3F5&height=200&text=Hi%20there!&fontAlign=75&fontAlignY=25&desc=TaeYoung's%20GitHub&descAlign=80&descAlignY=44&fontColor=ffffff)
 
 <img src="https://ellen24k.github.io/ellen24k_blog/img/test_1.jpg">
 <img src="384424243_302871452472472_3930656518045857484_n.jpg">
