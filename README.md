@@ -17,10 +17,10 @@
 [![ellen24k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen24k&count_private=true&include_all_commits&show_icons=true&theme=dracula)](https://github.com/ellen24k/ellen24k)
 
 <a href="https://ellen24k.github.io/develog/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Develog!-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Visit%20My%20Develog!-d3e3f5?style=for-the-badge&logo=Github&logoColor=white">
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fellen24k%2Fhit-counter&count_bg=%23D3E3F5&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ellen24k/ellen24k)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fellen24k%2Fhit-counter&count_bg=%23D3E3F5&title_bg=%23d3e3f5&icon=github.svg&icon_color=%23d3e3f5&title=hits&edge_flat=false)](https://github.com/ellen24k/ellen24k)
 
 
 
