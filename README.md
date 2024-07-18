@@ -1,5 +1,6 @@
-
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=d3e3F5&height=200&text=TaeYoung's%20GitHub&fontAlign=60&fontAlignY=35&desc=Hi%20there!&descAlign=90&descAlignY=55&fontColor=ffffff)
+
+<h3 align=center>Tech Stack</h3>
 
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -11,10 +12,22 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 </div>
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellen24k&count_private=true&langs_count=10&layout=compact&theme=dark)](https://github.com/ellen24k/ellen24k)
-
-[![ellen24k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen24k&count_private=true&include_all_commits&show_icons=true&theme=dracula)](https://github.com/ellen24k/ellen24k)
+<br><br>
+<h3 align=center>Github Stats</h3>
+<div>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen24k&count_private=true&langs_count=10&layout=compact&theme=apprentice)" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ellen24k&count_private=true&include_all_commits&show_icons=true&theme=apprentice" /> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen24k&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ellen24k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellen24k&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  </a>
+  
+</div>
 
 <a href="https://ellen24k.github.io/develog/">
   <img src="https://img.shields.io/badge/Visit%20My%20Develog!-d3e3f5?style=for-the-badge&logo=Github&logoColor=white">
