@@ -2,7 +2,7 @@
   
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=d3e3F5&height=200&text=TaeYoung's%20GitHub&fontAlign=60&fontAlignY=35&desc=Hi%20there!&descAlign=90&descAlignY=55&fontColor=ffffff)
 
-## __\*Tech Stack\*__
+## ___\*Tech Stack\*___
 
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -17,7 +17,7 @@
 
 <br><br>
 
-## __\*Github Stats\*__
+## ___\*Github Stats\*___
 
 <div>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen24k&count_private=true&langs_count=10&layout=compact&theme=apprentice)" /> -->
