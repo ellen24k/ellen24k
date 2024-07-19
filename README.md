@@ -17,7 +17,7 @@
 
 <br><br>
 
-## ___\*Github Stats\*___
+## _\*Github Stats\*_
 
 <div>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen24k&count_private=true&langs_count=10&layout=compact&theme=apprentice)" /> -->
