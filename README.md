@@ -13,6 +13,14 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-Streamlit-blue" alt="Streamlit Badge" />
+<img src="https://img.shields.io/badge/Supabase-Supabase-black" alt="Supabase Badge" />
+<img src="https://img.shields.io/badge/GitHub_Actions-Actions-2088FF" alt="GitHub Actions Badge" />
+<img src="https://img.shields.io/badge/TypeScript-TypeScript-blue" alt="TypeScript Badge" />
+<img src="https://img.shields.io/badge/Python-Python-blue" alt="Python Badge" />
+<img src="https://img.shields.io/badge/Docker-Docker-blue" alt="Docker Badge" />
+<img src="https://img.shields.io/badge/npm-npm-green" alt="npm Badge" />
+
 </div>
 
 <br><br>
