@@ -5,21 +5,22 @@
 # _\*Tech Stack\*_
 
 <div>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-Streamlit-blue" alt="Streamlit Badge" />
-<img src="https://img.shields.io/badge/Supabase-Supabase-black" alt="Supabase Badge" />
-<img src="https://img.shields.io/badge/GitHub_Actions-Actions-2088FF" alt="GitHub Actions Badge" />
-<img src="https://img.shields.io/badge/TypeScript-TypeScript-blue" alt="TypeScript Badge" />
-<img src="https://img.shields.io/badge/Python-Python-blue" alt="Python Badge" />
-<img src="https://img.shields.io/badge/Docker-Docker-blue" alt="Docker Badge" />
-<img src="https://img.shields.io/badge/npm-npm-green" alt="npm Badge" />
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java Badge">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit5 Badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL Badge">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin Badge">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black" alt="Android Badge">
+<img src="https://img.shields.io/badge/Streamlit-Streamlit-blue?style=for-the-badge" alt="Streamlit Badge">
+<img src="https://img.shields.io/badge/Supabase-Supabase-black?style=for-the-badge" alt="Supabase Badge">
+<img src="https://img.shields.io/badge/GitHub_Actions-Actions-2088FF?style=for-the-badge" alt="GitHub Actions Badge">
+<img src="https://img.shields.io/badge/TypeScript-TypeScript-007ACC?style=for-the-badge" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge" alt="Python Badge">
+<img src="https://img.shields.io/badge/Docker-Docker-2496ED?style=for-the-badge" alt="Docker Badge">
+<img src="https://img.shields.io/badge/npm-npm-CC3534?style=for-the-badge" alt="npm Badge">
+
 
 </div>
 
