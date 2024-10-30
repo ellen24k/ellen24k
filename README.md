@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin Badge">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black" alt="Android Badge">
-<img src="https://img.shields.io/badge/Streamlit-Streamlit-blue?style=for-the-badge" alt="Streamlit Badge">
-<img src="https://img.shields.io/badge/Supabase-Supabase-black?style=for-the-badge" alt="Supabase Badge">
+<img src="https://img.shields.io/badge/Streamlit-blue?style=for-the-badge" alt="Streamlit Badge">
+<img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge" alt="Supabase Badge">
 <img src="https://img.shields.io/badge/GitHub_Actions?style=for-the-badge" alt="GitHub Actions Badge">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python Badge">
