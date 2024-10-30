@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black" alt="Android Badge">
 <img src="https://img.shields.io/badge/Streamlit-Streamlit-blue?style=for-the-badge" alt="Streamlit Badge">
 <img src="https://img.shields.io/badge/Supabase-Supabase-black?style=for-the-badge" alt="Supabase Badge">
-<img src="https://img.shields.io/badge/GitHub_Actions-Actions-2088FF?style=for-the-badge" alt="GitHub Actions Badge">
-<img src="https://img.shields.io/badge/TypeScript-TypeScript-007ACC?style=for-the-badge" alt="TypeScript Badge">
-<img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge" alt="Python Badge">
-<img src="https://img.shields.io/badge/Docker-Docker-2496ED?style=for-the-badge" alt="Docker Badge">
-<img src="https://img.shields.io/badge/npm-npm-CC3534?style=for-the-badge" alt="npm Badge">
+<img src="https://img.shields.io/badge/GitHub_Actions?style=for-the-badge" alt="GitHub Actions Badge">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python Badge">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker Badge">
+<img src="https://img.shields.io/badge/npm-CC3534?style=for-the-badge" alt="npm Badge">
 
 
 </div>
