@@ -1,6 +1,6 @@
 <div align=center>
   
-![slice](https://capsule-render.vercel.app/api?type=waving&color=d3e3F5&height=200&text=TaeYoung's%20GitHub&fontAlign=60&fontAlignY=35&desc=Hi%20there!&descAlign=90&descAlignY=55&fontColor=ffffff)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=d3e3F5&height=200&text=Taeyoung's%20GitHub&fontAlign=60&fontAlignY=35&desc=Hi%20there!&descAlign=90&descAlignY=55&fontColor=ffffff)
 
 # _\*Tech Stack\*_
 
