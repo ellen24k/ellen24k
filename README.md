@@ -3,7 +3,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=waving&color=d3e3F5&height=200&text=Taeyoung's%20GitHub&fontAlign=60&fontAlignY=35&desc=Hi%20there!&descAlign=90&descAlignY=55&fontColor=ffffff)
 
 # _\*Tech Stack\*_
-
+<!--
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java Badge">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit5 Badge">
@@ -21,10 +21,10 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker Badge">
 <img src="https://img.shields.io/badge/npm-CC3534?style=for-the-badge" alt="npm Badge">
 
-
 </div>
 
 <br><br>
+-->
 
 # _\*Github Stats\*_
 
