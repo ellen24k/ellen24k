@@ -44,8 +44,11 @@
 
 <div>
   <a href="https://github.com/ellen24k/ellen24k">
+    <!--
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fellen24k%2Fhit-counter&count_bg=%23444444&title_bg=%23888888&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false" alt="Hits">
   </a>
+    -->
+    
 <!--   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fellen24k%2Fhit-counter&count_bg=%23444444&title_bg=%23888888&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/ellen24k/ellen24k) -->
   <br>
   <a href="https://ghost.ellen24k.kro.kr/">
