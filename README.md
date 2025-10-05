@@ -50,10 +50,12 @@
     -->
     
 <!--   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fellen24k%2Fhit-counter&count_bg=%23444444&title_bg=%23888888&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/ellen24k/ellen24k) -->
+<!--
   <br>
   <a href="https://ghost.ellen24k.kro.kr/">
   <img src="https://img.shields.io/badge/Visit%20My%20Develog!-15171A?style=for-the-badge&logo=Ghost&logoColor=white">
   </a>
+  -->
 </div>
 
 <img src="https://raw.githubusercontent.com/ellen24k/github-programmers-rank/master/lib/result.svg">
